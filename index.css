@@ -1,0 +1,51 @@
+.header{
+  height:60px;
+  width:100%;
+  background-color: #4476c7;
+}
+.main{
+  width: 935px;
+  height:700px;
+  background-color: #c744a8;
+  margin:0 auto;
+}
+.user{
+  width: 935px;
+  height:160px;
+  background-color: #f5e942;
+  margin:0 auto;
+}
+.avatar{
+  width: 100px;
+  height:100px;
+}
+.logo{
+  border-radius: 100px;
+
+}
+.stories{
+  width: 935px;
+  height:130px;
+  background-color: #93f542;
+  margin:0 auto;
+}
+.tabs{
+  width: 935px;
+  height:53px;
+  background-color: #42f5c8;
+  margin:0 auto;
+}
+.line{
+  width:935px;
+  height:293px;
+  background-color: #48d462;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+.pic{
+  width: 293px;
+  height: 293px;
+  background-color: #f5d222;
+  margin:5px;
+}
